@@ -3,3 +3,7 @@
 **OSS by exception:teapots**
 
 ### WARNING: CURRENTLY IN PRE-ALPHA. USE AT YOUR OWN RISK & DISCRETION
+
+## Requirements
+- systemd
+- python >= 3.11
